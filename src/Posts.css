@@ -1,0 +1,22 @@
+.posts {
+    margin: 20px auto;
+    border: 1px solid black;
+    width: 80vw;
+    height: 70vh;
+    overflow: scroll;
+  
+  }
+  
+.posts__content {
+    text-align: left;
+    list-style: none;
+  
+  }
+
+.posts__content > p {
+  margin: 30px;
+}
+
+.post {
+  margin: 10px;
+}
